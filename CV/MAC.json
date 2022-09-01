@@ -1,0 +1,145 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Camilo",
+      "surnames": "Villota Ibarra",
+      "title": "Software Developer",
+      "description": "Systems Engineer, PGCert in Software Development, MSc in Software Engineer, and currently student of PhD degree in Computer Science.\n\nMy experience in software develpment, requirements, and team managment for differents projects with private, and government institutions is of six years. Commonly, I work with projects in education, innovation, health, and government by using differents technologies.\n\nI have researched in knowledge representation, development methods, best practices, quality software with mutation and flaky test, and a something of mining software repositories.\n\nIn the last two years, I have been professor of posgraduates programs teaching courses of component-based software engineering, best practices, and software arquitecture.\n\nIn my life I try to learn every day and enjoy my jobs. I love to travel.",
+      "avatar": {
+        "alt": "fotobase.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/17/abc01ad4-54bd-41a9-ba06-f87115591786_fotobase.jpg"
+      },
+      "location": {
+        "notes": "undefined, Colombia"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/caviva"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/camilovillotai"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/caviva/"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Portuguese"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CodeIgniter",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Postman",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/caviva/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": ".Net Core",
+          "type": "technology"
+        },
+        {
+          "name": "C#",
+          "type": "technology"
+        },
+        {
+          "name": "Flutter",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "Vue",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
